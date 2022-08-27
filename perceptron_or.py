@@ -1,4 +1,4 @@
-from nonlinear.nn.perceptron import Perceptron
+from linear.nn.perceptron import Perceptron
 import numpy as np
 
 # construct the OR dataset
