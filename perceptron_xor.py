@@ -1,7 +1,7 @@
 from linear.nn.perceptron import Perceptron
 import numpy as np
 
-# construct the OR dataset
+# construct the XOR dataset
 X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 y = np.array([[0], [1], [1], [0]])
 
